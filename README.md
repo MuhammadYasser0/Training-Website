@@ -1,6 +1,8 @@
 # Training-Website
 A repo for the website i have done using practice from the front-end job profile for my game project.
 
+[Website recording.webm](https://github.com/user-attachments/assets/f55a269e-5a3f-4ded-b70c-d57b6299a42b)
+
 The website is intended to act as a portfolio website displaying artwork in the *Gallery* page by showcasing artwork that appears in the game.
 
 <img width="1366" height="768" alt="Screenshot_20260831_135825" src="https://github.com/user-attachments/assets/882e789f-2fc3-4e03-a4d6-73bd27ce07ae" />
